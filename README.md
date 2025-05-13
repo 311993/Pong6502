@@ -11,7 +11,7 @@ It has been tested only on the MESEN emulator, though it should be able to be ru
 
 ### Source Files
 
-The .asm files contain the source code for the project.
+The .asm files in *src/* contain the source code for the project.
 
 - *pong.asm* is the main file + includes game state control
 
